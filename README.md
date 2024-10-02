@@ -6,10 +6,10 @@
 - [Role](#role)
 - [Objective](#object)
 - [Methodology](#methodology)
-[Key findings](#key-findings)
-[Skills used](#skills-used)
-[Tools used](#tools-used)
-[Visualization](#visualization)
+- [Key findings](#key-findings)
+- [Skills used](#skills-used)
+- [Tools used](#tools-used)
+- [Visualization](#visualization)
 
 ## Project Overview
 As an intern at Venture Tribe, I led a project to collect user feedback and preferences for the company's website development and social media handles. The goal was to ensure that the website and online presence meet the needs and expectations of the target audience.
