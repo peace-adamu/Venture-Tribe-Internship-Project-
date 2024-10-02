@@ -1,14 +1,25 @@
-### Venture Tribe Internship Project
+# Venture Tribe Internship Project
 
 ## Project Title: User Feedback Collection and Visualization for Venture Tribe's Website Development
+[Project overview].(#project-overview)
+[Duration].(#duration)
+[Role].(#role)
+[Objective].(#object)
+[Methodology].(#methodology)
+[Key findings].(#key-findings)
+[Skills used].(#skills-used)
+[Tools used].(#tools-used)
+[Visualization].(#visualization)
+
+## Project Overview
+As an intern at Venture Tribe, I led a project to collect user feedback and preferences for the company's website development and social media handles. The goal was to ensure that the website and online presence meet the needs and expectations of the target audience.
 
 ## Duration: June - September 2024
 
 ## Role
 Intern, Data Analyst
 
-## Description
-As an intern at Venture Tribe, I led a project to collect user feedback and preferences for the company's website development and social media handles. The goal was to ensure that the website and online presence meet the needs and expectations of the target audience.
+
 ## Objectives:
 - Collect user feedback on desired tech roles and website features
 - Analyze and visualize user responses to inform website development
@@ -41,3 +52,17 @@ As an intern at Venture Tribe, I led a project to collect user feedback and pref
 ## Tools Used:
 - Google Forms: [You can view it](https://docs.google.com/forms/d/e/1FAIpQLSd3Ved48rapUbfB_YVX1G8eK9bEmVsaCwuEp_-IDAd0AHXy4g/viewform?usp=sf_link)
 - Power BI
+
+## Visualization
+
+![g1](https://github.com/user-attachments/assets/b5c5899f-f25e-4981-bbb7-1f9ec33ffc0f)
+
+![g3](https://github.com/user-attachments/assets/9fb1b8e2-dfdd-44a9-a1ec-9bde8f4f2c85)
+
+![g2](https://github.com/user-attachments/assets/31eb7166-2f2e-4c9d-a9e2-d8d650f7ae6b)
+
+![g4](https://github.com/user-attachments/assets/b3690fe9-8a22-43e6-8a07-30de9741e428)
+
+
+
+
