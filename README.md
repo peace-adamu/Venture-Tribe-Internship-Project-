@@ -1,15 +1,15 @@
 # Venture Tribe Internship Project
 
 ## Project Title: User Feedback Collection and Visualization for Venture Tribe's Website Development
-[Project overview].(#project-overview)
-[Duration].(#duration)
-[Role].(#role)
-[Objective].(#object)
-[Methodology].(#methodology)
-[Key findings].(#key-findings)
-[Skills used].(#skills-used)
-[Tools used].(#tools-used)
-[Visualization].(#visualization)
+[Project overview](#project-overview)
+[Duration](#duration)
+[Role](#role)
+[Objective](#object)
+[Methodology](#methodology)
+[Key findings](#key-findings)
+[Skills used](#skills-used)
+[Tools used](#tools-used)
+[Visualization](#visualization)
 
 ## Project Overview
 As an intern at Venture Tribe, I led a project to collect user feedback and preferences for the company's website development and social media handles. The goal was to ensure that the website and online presence meet the needs and expectations of the target audience.
