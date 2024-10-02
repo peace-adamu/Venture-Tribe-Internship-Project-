@@ -1,4 +1,4 @@
-Venture Tribe Internship Project
+### Venture Tribe Internship Project
 Project Title: User Feedback Collection and Visualization for Venture Tribe's Website Development
 Duration: June - September 2024
 Role: Intern, Data Analyst
